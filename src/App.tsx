@@ -18,7 +18,7 @@ const jobs: Job[] = [
   {
     id: 1,
     company: "Photosnap",
-    logo: "/images/photosnap.svg",
+    logo: "/photosnap.svg",
     position: "Senior Frontend Developer",
     languages: ["Frontend","HTML","senior", "CSS", "JavaScript"],
     postedAt: "1d ago",
@@ -30,7 +30,7 @@ const jobs: Job[] = [
   {
     id: 2,
     company: "Manage",
-    logo: "/images/manage.svg",
+    logo: "/manage.svg",
     position: "Fullstack Developer",
     languages: ["Fullstack", "Midweight","Python", "React"],
     postedAt: "1d ago",
@@ -42,7 +42,7 @@ const jobs: Job[] = [
   {
     id: 3,
     company: "Account",
-    logo: "/images/account.svg",
+    logo: "/account.svg",
     position: "Junior Frontend Developer",
     languages: ["Frontend", "Junior", "React", "Sass", "Javascript"],
     postedAt: "2d ago",
@@ -54,7 +54,7 @@ const jobs: Job[] = [
   {
     id: 4,
     company: "MyHome",
-    logo: "/images/myhome.svg",
+    logo: "/myhome.svg",
     position: "Junior Frontend Developer",
     languages: ["CSS", "JavaScript", "FrontEnd", "Junior"],
     postedAt: "5d ago",
@@ -66,7 +66,7 @@ const jobs: Job[] = [
   {
     id: 5,
     company: "Loop Studios",
-    logo: "/images/loop-studios.svg",
+    logo: "/loop-studios.svg",
     position: "Software Engineer",
     languages: ["JavaScript", "Ruby", "Fullstack", "Midweight", "Sass"],
     postedAt: "1w ago",
@@ -78,7 +78,7 @@ const jobs: Job[] = [
   {
     id: 6,
     company: "FaceIt",
-    logo: "/images/faceit.svg",
+    logo: "/faceit.svg",
     position: "Junior Backend Developer",
     languages: ["Ruby", "Backend", "Junior", "Ror"],
     postedAt: "2w ago",
@@ -90,7 +90,7 @@ const jobs: Job[] = [
   {
     id: 7,
     company: "Shortly",
-    logo: "/images/shortly.svg",
+    logo: "/shortly.svg",
     position: "Junior Developer",
     languages: ["HTML", "JavaScript", "Frontend", "Junior", "Sasas"],
     postedAt: "2w ago",
@@ -102,7 +102,7 @@ const jobs: Job[] = [
   {
     id: 8,
     company: "Insure",
-    logo: "/images/insure.svg",
+    logo: "/insure.svg",
     position: "Junior Frontend Developer",
     languages: ["JavaScript", "Vue", "Frontend", "junior", "Sass"],
     postedAt: "2w ago",
@@ -114,7 +114,7 @@ const jobs: Job[] = [
   {
     id: 9,
     company: "Eyecam Co.",
-    logo: "/images/eyecam-co.svg",
+    logo: "/eyecam-co.svg",
     position: "Full Stack Engineer",
     languages: ["JavaScript", "Python", "Fullstack", "Midweight", "Django"],
     postedAt: "2w ago",
@@ -126,7 +126,7 @@ const jobs: Job[] = [
   {
     id: 10,
     company: "The Air Filter Company",
-    logo: "/images/the-air-filter-company.svg",
+    logo: "/the-air-filter-company.svg",
     position: "Front-end Dev",
     languages: ["JavaScript", "Frontend", "Junior", "React"],
     postedAt: "1mo ago",
